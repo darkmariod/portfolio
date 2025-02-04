@@ -12,7 +12,9 @@
     "astro": "^5.2.3"
   },
   "devDependencies": {
+    "@iconify/json": "^2.2.302",
     "@unocss/astro": "^65.4.3",
+    "@unocss/preset-icons": "^65.4.3",
     "@unocss/preset-uno": "^65.4.3",
     "unocss": "^65.4.3"
   }
